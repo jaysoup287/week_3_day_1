@@ -74,6 +74,7 @@ print(f"{name} liked to hum the song {song} while coding. It was so annoying tha
 
 # Still, [name] was the best coder on the team and could write [number] lines of code every day. Maybe [song] was [name]’s secret power?
 ##########################################################################################
+print(f"Still, {name} was the best coder on the team and could write {number} lines of code every day. Maybe {song} was {name}'s secret power.")
 
 
 
